@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Fontswitch</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Wed, 15 May 2024 01:36:07 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/byTailoredSwift/Fontswitch-Releases/releases/download/v0.1/Fontswitch-v0.1.dmg" length="3498389" type="application/octet-stream" sparkle:edSignature="m1J9/CCqYAourwUvJgUQRnyZYd4BOvZ2dv9GG4NJ4LD513h8fpNGEG8xLdXj+EpHpyv22IYwBrw1u/+M/t+6Bg=="/>
+        </item>
+    </channel>
+</rss>
