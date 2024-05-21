@@ -8,7 +8,7 @@
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://bytailoredswift.github.io/Fontswitch-Releases/Fontswitch-v0.5.dmg" length="3056030" type="application/octet-stream" sparkle:edSignature="SgBo0ULlSKZdlJn9lQANGtVtPwq80oGBB2YXrAaOsRC11ujlGAkjUr2Fm4NoE/8Cjp10D2K7+Xum/VZf3USiCw=="/>
+            <enclosure url="https://github.com/byTailoredSwift/Fontswitch-Releases/releases/download/v0.5/Fontswitch-v0.5.dmg" length="3056030" type="application/octet-stream" sparkle:edSignature="SgBo0ULlSKZdlJn9lQANGtVtPwq80oGBB2YXrAaOsRC11ujlGAkjUr2Fm4NoE/8Cjp10D2K7+Xum/VZf3USiCw=="/>
         </item>
         <item>
             <title>0.4</title>
