@@ -3,6 +3,14 @@
     <channel>
         <title>Fontswitch</title>
         <item>
+            <title>0.5</title>
+            <pubDate>Tue, 21 May 2024 10:48:28 -0400</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://bytailoredswift.github.io/Fontswitch-Releases/Fontswitch-v0.5.dmg" length="3056030" type="application/octet-stream" sparkle:edSignature="SgBo0ULlSKZdlJn9lQANGtVtPwq80oGBB2YXrAaOsRC11ujlGAkjUr2Fm4NoE/8Cjp10D2K7+Xum/VZf3USiCw=="/>
+        </item>
+        <item>
             <title>0.4</title>
             <pubDate>Sat, 18 May 2024 18:45:08 -0400</pubDate>
             <sparkle:version>4</sparkle:version>
